@@ -1,5 +1,4 @@
 # 💫 About Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joshuatanx)<br/>
 🧣 I'm Josh, a math and CS major currently developing the front-end of a wardrobe tracker web app using React.
 
 ## 💻 Things I work with
